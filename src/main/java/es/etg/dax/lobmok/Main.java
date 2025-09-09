@@ -13,5 +13,8 @@ public class Main {
 
         System.out.println(ac);
         System.out.println(as);
+
+        ac.setNombre("nombre nuev");
+        as.setNombre("Nombre nuevo");
     }
 }
